@@ -1,2 +1,3 @@
 # App-development
 Flutter, Google's open-source SDK, streamlines cross-platform app development with a single codebase. Using Dart, it provides rich, customizable widgets and real-time hot reload for fast, efficient coding. Flutter’s high performance and extensive widget library support seamless development for mobile, web, and desktop applications.
+If you're studying Flutter, you'll dive into building cross-platform apps with Dart. You’ll learn how to set up your development environment, design user interfaces using Flutter’s rich widget library, and manage app logic. The study focuses on using features like hot reload to speed up development and create high-performance apps for mobile, web, and desktop.
